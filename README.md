@@ -65,8 +65,7 @@ The textual representation achieved the strongest validation performance, with a
 ```text
 multimodal-movie-recommendation/
 ├── README.md
-├── notebooks/
-│   └── multimodal_movie_recommendation.ipynb
+├── multimodal_movie_recommendation.ipynb
 ├── requirements.txt
 └── .gitignore
 ```
