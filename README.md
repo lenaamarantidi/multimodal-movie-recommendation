@@ -70,6 +70,13 @@ multimodal-movie-recommendation/
 ├── requirements.txt
 └── .gitignore
 ```
+## Data & Reproducibility
+
+The experiments use the publicly available MovieLens datasets together with prepared movie metadata, plot summaries, poster images, learned embeddings, and model checkpoints.
+
+Large datasets, poster collections, intermediate embeddings, and trained model checkpoints are not included in this repository. The notebook retains the outputs of the original experiments so that the training process, evaluation metrics, and experimental comparisons can be inspected without rerunning the full pipeline.
+
+The repository is therefore intended primarily as a documented presentation of the experimental workflow and results rather than as a fully self-contained reproduction package.
 
 ## Notes
 
