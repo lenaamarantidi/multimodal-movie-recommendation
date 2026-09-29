@@ -1,5 +1,3 @@
-# multimodal-movie-recommendation
-Multimodal movie recommendation using visual, textual, and graph-based representations.
 # Multimodal Movie Recommendation System
 
 A multimodal movie recommendation project combining **computer vision, natural language processing, and graph neural networks** to investigate how different movie representations affect recommendation performance.
@@ -71,3 +69,15 @@ multimodal-movie-recommendation/
 │   └── multimodal_movie_recommendation.ipynb
 ├── requirements.txt
 └── .gitignore
+```
+
+## Notes
+
+This repository is a cleaned and reorganized version of a university course project. The original assignment provided parts of the experimental framework, including the GraphSAGE architecture and training pipeline. The project work focused on feature construction, multimodal representation, integration with the graph-based recommendation framework, experimentation, and evaluation.
+
+## Authors
+
+- **Eleni Amarantidi**
+- **Efthimios Grizanitis**
+
+Developed as part of the **Neural Networks & Deep Learning** course at the National Technical University of Athens (NTUA).
