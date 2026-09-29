@@ -1,0 +1,21 @@
+# Datasets and generated data
+datasets/
+
+# Model checkpoints and learned embeddings
+*.pth
+*.pt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Environment files
+.env
+.venv/
+venv/
